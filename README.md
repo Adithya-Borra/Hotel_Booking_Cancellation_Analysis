@@ -1,4 +1,4 @@
-# Hotel Booking Cancellation Analysis – Git Hub Readme
+# Hotel Booking Cancellation Analysis
 ## 🏨  Hotel Booking Cancellation Analysis (Excel-Based Project)
 ### 📌 Project Overview
 
