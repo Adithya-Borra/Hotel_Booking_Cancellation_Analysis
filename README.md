@@ -1,12 +1,12 @@
 # Hotel Booking Cancellation Analysis – Git Hub Readme
-🏨 ## Hotel Booking Cancellation Analysis (Excel-Based Project)
-📌 ### Project Overview
+## 🏨  Hotel Booking Cancellation Analysis (Excel-Based Project)
+### 📌 Project Overview
 
 This project analyzes hotel booking cancellations using an Excel-based analytical workflow to uncover patterns, drivers, and actionable insights that help hotels reduce cancellations, improve revenue forecasting, and optimize operational decisions.
 
 The analysis demonstrates strong fundamentals in data analysis, business thinking, and storytelling, making it an excellent portfolio project for Data Analyst / Data Scientist / Business Analyst roles.
 
-🎯 ### Business Problem
+### 🎯 Business Problem
 
 Hotel booking cancellations lead to:
 
@@ -18,7 +18,7 @@ Inefficient room allocation
 
 Goal: Identify why customers cancel bookings and how hotels can proactively reduce cancellations.
 
-📊 ### Dataset Description
+### 📊  Dataset Description
 
 The dataset (Excel spreadsheet) contains historical hotel booking data with features such as:
 
@@ -31,7 +31,7 @@ Outcome	Cancellation Status
 
 Dataset is structured and cleaned directly in Excel using formulas, filters, and pivot tables.
 
-🧠 ### Key Questions Answered
+### 🧠  Key Questions Answered
 
 Which customer segments cancel the most?
 
