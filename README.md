@@ -43,7 +43,7 @@ Does pricing influence cancellations?
 
 Are repeat guests less likely to cancel?
 
-🛠️ ### Tools & Techniques Used
+### 🛠️ Tools & Techniques Used
 🔹 Excel (Core Tool)
 
 Data Cleaning (handling missing values, formatting)
@@ -56,7 +56,7 @@ Logical & Statistical Functions
 
 Sorting, Filtering, Grouping
 
-🔹 Analytical Skills Demonstrated
+### 🔹 Analytical Skills Demonstrated
 
 Exploratory Data Analysis (EDA)
 
@@ -66,7 +66,7 @@ Business Insight Generation
 
 Data Visualization & Storytelling
 
-📈 ### Key Insights
+### 📈 Key Insights
 
 ✔️ High lead time bookings cancel more frequently
 
@@ -78,7 +78,7 @@ Data Visualization & Storytelling
 
 ✔️ Higher ADR bookings are more prone to cancellation
 
-💡 ### Business Recommendations
+### 💡 Business Recommendations
 
 Implement dynamic cancellation policies based on lead time
 
@@ -90,7 +90,7 @@ Use overbooking strategies for high-risk segments
 
 Encourage direct bookings over OTAs
 
-📊 ### Visualizations Included
+### 📊 Visualizations Included
 
 Cancellation Rate by Hotel Type
 
@@ -102,11 +102,8 @@ ADR Distribution for Cancelled vs Non-Cancelled Bookings
 
 (All visualizations created using Excel Pivot Charts)
 
-📁 ### Repository Structure
-📦 ### Hotel-Booking-Cancellation-Analysis
- ┣ 📊 Hotel_Booking_Cancellation_Analysis.xlsx
- ┣ 📄 README.md
-🚀 ### Why This Project Stands Out
+
+### 🚀 Why This Project Stands Out
 
 Real-world business problem
 
@@ -118,7 +115,7 @@ Recruiter-friendly Excel-first approach
 
 Easily extendable to Python / SQL / Tableau
 
-🔮 Future Enhancements
+### 🔮 Future Enhancements
 
 Rebuild analysis using Python (Pandas, Seaborn)
 
@@ -130,6 +127,6 @@ Deploy insights as a web dashboard
 
 
 
-Adithya Borra
+### Tirumala Ratna Adithya Borra
 Data Scientist | Data Analyst 
 📍 USA
